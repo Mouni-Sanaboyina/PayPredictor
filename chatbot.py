@@ -3,7 +3,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # API key (hardcoded)
-API_KEY = "AIzaSyBsq5Kd5nJgx2fejR77NT8v5Lk3PK4gbH8"
+API_KEY = "AIzaSyD25SGMAtLg7WlgIisJo6RnKcMMYhKl0fc"
 
 # Configure the generative model
 genai.configure(api_key=API_KEY)
